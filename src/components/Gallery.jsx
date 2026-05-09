@@ -45,8 +45,12 @@ export default function Gallery() {
     setMounted(true)
   }, [])
 
-  const handleQuote = (productName) => {
-    const message = `Hi Nihira Jewels, I'm interested in the ${productName}. Could you please provide a quote?`
+  const handleQuote = (productImage) => {
+    // WhatsApp can't auto-send an attachment from a website, but it will show a preview card for links.
+    // Send only the image URL so the user can tap "Send" with a preview.
+    const origin = typeof window !== 'undefined' ? window.location.origin : ''
+    const imageUrl = productImage?.startsWith('http') ? productImage : `${origin}${productImage}`
+    const message = `Hi Nihira Jewels, I’d like to know more about this product.\n\n${imageUrl}`
     const url = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`
     window.open(url, '_blank')
   }
@@ -126,7 +130,7 @@ export default function Gallery() {
                 </div>
                 <div className="mt-3 mt-auto">
                   <button
-                    onClick={() => handleQuote(product.name)}
+                    onClick={() => handleQuote(product.image)}
                     className="flex items-center justify-center gap-2 w-full py-2.5 bg-[#1a1a1a] border border-gold/20 text-gold text-[10px] uppercase tracking-widest hover:bg-[#252525] hover:border-gold/40 transition-all duration-300 rounded-sm shadow-sm"
                   >
                     <MessageCircle size={12} />
