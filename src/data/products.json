@@ -60,18 +60,6 @@
     "image": "/images/drive/Danglers/IMG20251106125759.jpg"
   },
   {
-    "id": 11,
-    "name": "IMG20251106125805",
-    "category": "Danglers",
-    "image": "/images/drive/Danglers/IMG20251106125805.jpg"
-  },
-  {
-    "id": 12,
-    "name": "IMG20251106130052",
-    "category": "Danglers",
-    "image": "/images/drive/Danglers/IMG20251106130052.jpg"
-  },
-  {
     "id": 13,
     "name": "IMG20251106130055",
     "category": "Danglers",
@@ -82,12 +70,6 @@
     "name": "IMG20251106130213",
     "category": "Danglers",
     "image": "/images/drive/Danglers/IMG20251106130213.jpg"
-  },
-  {
-    "id": 15,
-    "name": "IMG20251106130337",
-    "category": "Danglers",
-    "image": "/images/drive/Danglers/IMG20251106130337.jpg"
   },
   {
     "id": 16,
@@ -120,28 +102,10 @@
     "image": "/images/drive/Diamond_Bracelts/IMG20251014113202.jpg"
   },
   {
-    "id": 21,
-    "name": "IMG20251014113209",
-    "category": "Diamond Bracelets",
-    "image": "/images/drive/Diamond_Bracelts/IMG20251014113209.jpg"
-  },
-  {
-    "id": 22,
-    "name": "IMG20251014113250",
-    "category": "Diamond Bracelets",
-    "image": "/images/drive/Diamond_Bracelts/IMG20251014113250.jpg"
-  },
-  {
     "id": 23,
     "name": "IMG20251014113255",
     "category": "Diamond Bracelets",
     "image": "/images/drive/Diamond_Bracelts/IMG20251014113255.jpg"
-  },
-  {
-    "id": 24,
-    "name": "IMG20251014113347",
-    "category": "Diamond Bracelets",
-    "image": "/images/drive/Diamond_Bracelts/IMG20251014113347.jpg"
   },
   {
     "id": 25,
@@ -156,40 +120,10 @@
     "image": "/images/drive/Diamond_Bracelts/IMG20251014113528.jpg"
   },
   {
-    "id": 27,
-    "name": "IMG20251014113544",
-    "category": "Diamond Bracelets",
-    "image": "/images/drive/Diamond_Bracelts/IMG20251014113544.jpg"
-  },
-  {
     "id": 28,
     "name": "IMG20251014113604",
     "category": "Diamond Bracelets",
     "image": "/images/drive/Diamond_Bracelts/IMG20251014113604.jpg"
-  },
-  {
-    "id": 29,
-    "name": "IMG20251014113622",
-    "category": "Diamond Bracelets",
-    "image": "/images/drive/Diamond_Bracelts/IMG20251014113622.jpg"
-  },
-  {
-    "id": 30,
-    "name": "IMG20251014113658",
-    "category": "Diamond Bracelets",
-    "image": "/images/drive/Diamond_Bracelts/IMG20251014113658.jpg"
-  },
-  {
-    "id": 31,
-    "name": "IMG20251014113803",
-    "category": "Diamond Bracelets",
-    "image": "/images/drive/Diamond_Bracelts/IMG20251014113803.jpg"
-  },
-  {
-    "id": 32,
-    "name": "IMG20251014113856",
-    "category": "Diamond Bracelets",
-    "image": "/images/drive/Diamond_Bracelts/IMG20251014113856.jpg"
   },
   {
     "id": 33,
@@ -210,12 +144,6 @@
     "image": "/images/drive/Diamond_Bracelts/IMG20251014114254.jpg"
   },
   {
-    "id": 36,
-    "name": "IMG20251115131924",
-    "category": "Diamond Bracelets",
-    "image": "/images/drive/Diamond_Bracelts/IMG20251115131924.jpg"
-  },
-  {
     "id": 37,
     "name": "IMG20251115131929",
     "category": "Diamond Bracelets",
@@ -226,12 +154,6 @@
     "name": "IMG20251115132124",
     "category": "Diamond Bracelets",
     "image": "/images/drive/Diamond_Bracelts/IMG20251115132124.jpg"
-  },
-  {
-    "id": 39,
-    "name": "IMG20251115132255",
-    "category": "Diamond Bracelets",
-    "image": "/images/drive/Diamond_Bracelts/IMG20251115132255.jpg"
   },
   {
     "id": 40,
@@ -246,28 +168,10 @@
     "image": "/images/drive/Diamond_Bracelts/IMG20251115132316.jpg"
   },
   {
-    "id": 42,
-    "name": "IMG20251115132333",
-    "category": "Diamond Bracelets",
-    "image": "/images/drive/Diamond_Bracelts/IMG20251115132333.jpg"
-  },
-  {
-    "id": 43,
-    "name": "IMG20251115132527",
-    "category": "Diamond Bracelets",
-    "image": "/images/drive/Diamond_Bracelts/IMG20251115132527.jpg"
-  },
-  {
     "id": 44,
     "name": "IMG20251115132548",
     "category": "Diamond Bracelets",
     "image": "/images/drive/Diamond_Bracelts/IMG20251115132548.jpg"
-  },
-  {
-    "id": 45,
-    "name": "IMG20251115132613",
-    "category": "Diamond Bracelets",
-    "image": "/images/drive/Diamond_Bracelts/IMG20251115132613.jpg"
   },
   {
     "id": 46,
@@ -348,12 +252,6 @@
     "image": "/images/drive/Diamond_sets/IMG20251203164602.jpg"
   },
   {
-    "id": 67,
-    "name": "IMG 20260321 WA0061 1",
-    "category": "Facelets",
-    "image": "/images/drive/Facelets/IMG-20260321-WA0061_1_.jpg"
-  },
-  {
     "id": 68,
     "name": "IMG 20260321 WA0062",
     "category": "Facelets",
@@ -366,34 +264,16 @@
     "image": "/images/drive/Facelets/IMG-20260321-WA0063.jpg"
   },
   {
-    "id": 70,
-    "name": "IMG 20260321 WA0064",
-    "category": "Facelets",
-    "image": "/images/drive/Facelets/IMG-20260321-WA0064.jpg"
-  },
-  {
     "id": 71,
     "name": "IMG 20260321 WA0065",
     "category": "Facelets",
     "image": "/images/drive/Facelets/IMG-20260321-WA0065.jpg"
   },
   {
-    "id": 72,
-    "name": "IMG 20260321 WA0066 1",
-    "category": "Facelets",
-    "image": "/images/drive/Facelets/IMG-20260321-WA0066_1_.jpg"
-  },
-  {
     "id": 73,
     "name": "IMG 20260330 WA0045",
     "category": "Grooms Jewellery",
     "image": "/images/drive/Grooms_Jewellery/IMG-20260330-WA0045.jpg"
-  },
-  {
-    "id": 74,
-    "name": "IMG 20260330 WA0046 1",
-    "category": "Grooms Jewellery",
-    "image": "/images/drive/Grooms_Jewellery/IMG-20260330-WA0046_1_.jpg"
   },
   {
     "id": 75,
@@ -412,12 +292,6 @@
     "name": "IMG 20260330 WA0048 1",
     "category": "Grooms Jewellery",
     "image": "/images/drive/Grooms_Jewellery/IMG-20260330-WA0048_1_.jpg"
-  },
-  {
-    "id": 78,
-    "name": "IMG 20260330 WA0048",
-    "category": "Grooms Jewellery",
-    "image": "/images/drive/Grooms_Jewellery/IMG-20260330-WA0048.jpg"
   },
   {
     "id": 79,
@@ -444,18 +318,6 @@
     "image": "/images/drive/Heritage_Watches/IMG20260502070540.jpg"
   },
   {
-    "id": 83,
-    "name": "IMG20260502071242",
-    "category": "Heritage Watches",
-    "image": "/images/drive/Heritage_Watches/IMG20260502071242.jpg"
-  },
-  {
-    "id": 84,
-    "name": "IMG20260502071339",
-    "category": "Heritage Watches",
-    "image": "/images/drive/Heritage_Watches/IMG20260502071339.jpg"
-  },
-  {
     "id": 85,
     "name": "IMG20260502071358",
     "category": "Heritage Watches",
@@ -474,40 +336,10 @@
     "image": "/images/drive/Heritage_Watches/IMG20260502071423.jpg"
   },
   {
-    "id": 88,
-    "name": "IMG20260502071435",
-    "category": "Heritage Watches",
-    "image": "/images/drive/Heritage_Watches/IMG20260502071435.jpg"
-  },
-  {
-    "id": 89,
-    "name": "IMG20260502071509",
-    "category": "Heritage Watches",
-    "image": "/images/drive/Heritage_Watches/IMG20260502071509.jpg"
-  },
-  {
-    "id": 90,
-    "name": "IMG20260502071518",
-    "category": "Heritage Watches",
-    "image": "/images/drive/Heritage_Watches/IMG20260502071518.jpg"
-  },
-  {
-    "id": 91,
-    "name": "IMG20260502071530",
-    "category": "Heritage Watches",
-    "image": "/images/drive/Heritage_Watches/IMG20260502071530.jpg"
-  },
-  {
     "id": 92,
     "name": "IMG20260502071545",
     "category": "Heritage Watches",
     "image": "/images/drive/Heritage_Watches/IMG20260502071545.jpg"
-  },
-  {
-    "id": 93,
-    "name": "IMG20260502071548",
-    "category": "Heritage Watches",
-    "image": "/images/drive/Heritage_Watches/IMG20260502071548.jpg"
   },
   {
     "id": 94,
@@ -532,12 +364,6 @@
     "name": "IMG20250318121200",
     "category": "P Set With Mala",
     "image": "/images/drive/P_set_with_mala/IMG20250318121200.jpg"
-  },
-  {
-    "id": 98,
-    "name": "IMG20250320094033",
-    "category": "P Set With Mala",
-    "image": "/images/drive/P_set_with_mala/IMG20250320094033.jpg"
   },
   {
     "id": 99,
@@ -612,12 +438,6 @@
     "image": "/images/drive/P_set_with_mala/IMG20250422110024.jpg"
   },
   {
-    "id": 111,
-    "name": "IMG20250422110119",
-    "category": "P Set With Mala",
-    "image": "/images/drive/P_set_with_mala/IMG20250422110119.jpg"
-  },
-  {
     "id": 112,
     "name": "IMG20250422110246",
     "category": "P Set With Mala",
@@ -654,30 +474,6 @@
     "image": "/images/drive/P_set_with_mala/IMG20250422111143.jpg"
   },
   {
-    "id": 118,
-    "name": "IMG20250422112813",
-    "category": "P Set With Mala",
-    "image": "/images/drive/P_set_with_mala/IMG20250422112813.jpg"
-  },
-  {
-    "id": 119,
-    "name": "IMG20250422112934",
-    "category": "P Set With Mala",
-    "image": "/images/drive/P_set_with_mala/IMG20250422112934.jpg"
-  },
-  {
-    "id": 120,
-    "name": "IMG20250422113017",
-    "category": "P Set With Mala",
-    "image": "/images/drive/P_set_with_mala/IMG20250422113017.jpg"
-  },
-  {
-    "id": 121,
-    "name": "IMG20250422113516",
-    "category": "P Set With Mala",
-    "image": "/images/drive/P_set_with_mala/IMG20250422113516.jpg"
-  },
-  {
     "id": 122,
     "name": "IMG20250422113526",
     "category": "P Set With Mala",
@@ -690,76 +486,16 @@
     "image": "/images/drive/P_set_with_mala/IMG20250422113540.jpg"
   },
   {
-    "id": 124,
-    "name": "IMG20250422113548",
-    "category": "P Set With Mala",
-    "image": "/images/drive/P_set_with_mala/IMG20250422113548.jpg"
-  },
-  {
-    "id": 125,
-    "name": "IMG20250422113741 01",
-    "category": "P Set With Mala",
-    "image": "/images/drive/P_set_with_mala/IMG20250422113741_01.jpg"
-  },
-  {
-    "id": 129,
-    "name": "IMG20250506132448",
-    "category": "P Set With Mala",
-    "image": "/images/drive/P_set_with_mala/IMG20250506132448.jpg"
-  },
-  {
-    "id": 130,
-    "name": "IMG20250506132509",
-    "category": "P Set With Mala",
-    "image": "/images/drive/P_set_with_mala/IMG20250506132509.jpg"
-  },
-  {
     "id": 131,
     "name": "IMG20250506132555",
     "category": "P Set With Mala",
     "image": "/images/drive/P_set_with_mala/IMG20250506132555.jpg"
   },
   {
-    "id": 132,
-    "name": "IMG20250506132611",
-    "category": "P Set With Mala",
-    "image": "/images/drive/P_set_with_mala/IMG20250506132611.jpg"
-  },
-  {
-    "id": 139,
-    "name": "IMG 20250213 120029",
-    "category": "P Set With Mala",
-    "image": "/images/drive/P_set_with_mala/IMG_20250213_120029.jpg"
-  },
-  {
-    "id": 142,
-    "name": "IMG20240128081035",
-    "category": "Choker",
-    "image": "/images/drive/choker/IMG20240128081035.jpg"
-  },
-  {
-    "id": 143,
-    "name": "IMG20240730120420",
-    "category": "Choker",
-    "image": "/images/drive/choker/IMG20240730120420.jpg"
-  },
-  {
     "id": 146,
     "name": "IMG20250122124521",
     "category": "Choker",
     "image": "/images/drive/choker/IMG20250122124521.jpg"
-  },
-  {
-    "id": 147,
-    "name": "IMG20250122124818",
-    "category": "Choker",
-    "image": "/images/drive/choker/IMG20250122124818.jpg"
-  },
-  {
-    "id": 151,
-    "name": "IMG20250212113623",
-    "category": "Choker",
-    "image": "/images/drive/choker/IMG20250212113623.jpg"
   },
   {
     "id": 152,
