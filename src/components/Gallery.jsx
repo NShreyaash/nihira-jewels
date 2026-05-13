@@ -45,14 +45,20 @@ export default function Gallery() {
     setMounted(true)
   }, [])
 
-  const handleQuote = (productImage) => {
+  const handleQuote = (product) => {
     // WhatsApp can't auto-send an attachment from a website, but it will show a preview card for links.
     // Send only the image URL so the user can tap "Send" with a preview.
     const origin = typeof window !== 'undefined' ? window.location.origin : ''
-    const imageUrl = productImage?.startsWith('http') ? productImage : `${origin}${productImage}`
-    const message = `Hi Nihira Jewels, I’d like to know more about this product.\n\n${imageUrl}`
+    const imageUrl = product.image?.startsWith('http') ? product.image : `${origin}${product.image}`
+    const productRef = getProductRef(product)
+    const message = `Hi Nihira Jewels, I’d like to know more about product ${productRef} (${product.name}).\n\n${imageUrl}`
     const url = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`
     window.open(url, '_blank')
+  }
+
+  const getProductRef = (product) => {
+    const index = displayProducts.findIndex(p => p.id === product.id);
+    return `NJ${String(index + 1).padStart(2, '0')}`;
   }
 
   if (!mounted) return null; // Avoid hydration mismatch on initial render
@@ -123,6 +129,11 @@ export default function Gallery() {
                     sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, (max-width: 1280px) 33vw, 25vw"
                     className="object-cover transition-transform duration-700 group-hover:scale-105"
                   />
+                  {/* Reference ID Badge */}
+                  <div className="absolute top-3 left-3 z-10 px-2 py-1 bg-black/60 backdrop-blur-md border border-gold/30 rounded text-gold text-[9px] font-bold tracking-widest">
+                    {getProductRef(product)}
+                  </div>
+                  
                   <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 flex flex-col justify-end p-5">
                     <span className="text-gold/90 text-[10px] uppercase tracking-widest mb-1 truncate">{product.category}</span>
                     <h3 className="text-white text-base font-serif line-clamp-1">{product.name}</h3>
@@ -130,7 +141,7 @@ export default function Gallery() {
                 </div>
                 <div className="mt-3 mt-auto">
                   <button
-                    onClick={() => handleQuote(product.image)}
+                    onClick={() => handleQuote(product)}
                     className="flex items-center justify-center gap-2 w-full py-2.5 bg-[#1a1a1a] border border-gold/20 text-gold text-[10px] uppercase tracking-widest hover:bg-[#252525] hover:border-gold/40 transition-all duration-300 rounded-sm shadow-sm"
                   >
                     <MessageCircle size={12} />
